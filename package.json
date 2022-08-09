@@ -1,0 +1,23 @@
+{
+  "name": "teckcraftinterview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewAGindi/TeckCraftInterview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewAGindi/TeckCraftInterview/issues"
+  },
+  "homepage": "https://github.com/AndrewAGindi/TeckCraftInterview#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
